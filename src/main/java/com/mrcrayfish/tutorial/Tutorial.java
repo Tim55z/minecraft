@@ -21,6 +21,7 @@ public class Tutorial {
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
+		System.out.println("Sergey");
 	}
 
 	@EventHandler
